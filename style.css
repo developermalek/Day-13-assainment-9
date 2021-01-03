@@ -1,0 +1,74 @@
+span{
+    font-family: 'Yellowtail', cursive; 
+}
+body,h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*======== main Css Start=========== */
+.image-text{
+    background-color: black;
+    color: #fff;
+}
+.image-text h4 {
+    color: #ddd;
+}
+.image-text p span{
+    font-size: 25px;
+}
+.image-text .first{
+    color: #834546;
+}
+.image-text .second {
+	color: #3c6778;
+}
+/* =======About us Css =======*/
+.about-title span {
+	background-color: #834546;
+	font-size: 60px;
+}
+.about-text p {
+	background-color: #ddd;
+	padding: 10px 0;
+
+}
+/* ========service css======== */
+.service-text h3 {
+	background-color: #2a7949;
+	font-size: 60px;
+	font-weight: 300;
+}
+.service-items{
+    background-color: #eeeeee;
+}
+.service-item-text {
+
+	padding: 8px 0;
+}
+.service-item-text h5{
+    font-weight: 500;
+}
+.service-item-text p {
+	margin-bottom: 5px;
+}
+/* ========= Footer css =======*/
+.footer {
+	background-color: #4f85c5;
+    color: #fff;
+    text-align: center;
+}
+.footer span{
+    font-size: 40px;
+}
+.footer h6{}
+.footer p {
+	margin-bottom: 0;
+	padding-bottom: 15px;
+}
+.footer-bottom p{
+    background-color: black;
+    color: #fff;
+}
+.footer-bottom i{
+    color: #99d0ea;
+}
